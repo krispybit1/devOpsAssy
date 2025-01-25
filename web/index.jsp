@@ -8,6 +8,7 @@
 
     <body>
         <h1>Welcome to My Simple JSP App</h1>
+        <h1>test</h1>
 
         <!-- Input text box -->
         <form method="GET" action="hello.jsp">
