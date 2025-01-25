@@ -9,7 +9,7 @@
     <body>
         <h1>Welcome to My Simple JSP App</h1>
         <h1>test</h1>
-
+        <h2>test2</h2>
         <!-- Input text box -->
         <form method="GET" action="hello.jsp">
             <label for="name">Enter your name:</label>
