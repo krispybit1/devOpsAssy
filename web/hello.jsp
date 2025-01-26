@@ -9,6 +9,7 @@
     <body>
         <% String name=request.getParameter("name"); if (name==null || name.trim().isEmpty()) { name="Guest" ; } %>
             <h1>Hello, <%= name %>!</h1>
+            <img src="images/image2.jpg" alt="Index Picture" width="250" />
             <p><a href="index.jsp">Back to Home</a></p>
     </body>
 
