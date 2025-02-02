@@ -10,7 +10,6 @@
         <h1>Welcome to My Simple JSP App</h1>
         <!-- Input text box -->
         <img src="images/image1.png" alt="Index Picture" width="250" />
-        <h1>test </h1>
         <form method="GET" action="hello.jsp">
             <label for="name">Enter your name:</label>
             <input type="text" id="name" name="name" />
